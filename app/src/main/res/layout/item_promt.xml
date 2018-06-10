@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <ImageView
+        android:id="@+id/placeHolderImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:text="Download"
+        android:gravity="center"
+        android:id="@+id/setWallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#51ffffff"
+        android:clickable="true"
+        android:padding="15dp"
+        android:src="@color/colorPrimary" />
+
+</LinearLayout>

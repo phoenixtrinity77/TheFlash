@@ -1,0 +1,260 @@
+{
+  "project_info": {
+    "project_number": "461916468315",
+    "firebase_url": "https://wallpaper-dfd1b.firebaseio.com",
+    "project_id": "wallpaper-dfd1b",
+    "storage_bucket": "wallpaper-dfd1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461916468315:android:72c49e8e02699eb0",
+        "android_client_info": {
+          "package_name": "com.epizy.allwallpaper.www.adminwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3WnU14bu5ZVQ5it-NbzAMwCWpRKRFSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461916468315:android:2f22de8938a63628",
+        "android_client_info": {
+          "package_name": "com.epizy.allwallpaper.www.ironmanwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3WnU14bu5ZVQ5it-NbzAMwCWpRKRFSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461916468315:android:7ec2e7b79e054e63",
+        "android_client_info": {
+          "package_name": "com.epizy.allwallpaper.www.theflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3WnU14bu5ZVQ5it-NbzAMwCWpRKRFSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461916468315:android:d03dd2f787a91de7",
+        "android_client_info": {
+          "package_name": "com.trinity.phoenix.ironmanwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461916468315-8v57q0uqt6v734km89eh2tmdfhlk7nh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trinity.phoenix.ironmanwallpaper",
+            "certificate_hash": "416641abd4198da68a3bbab637ad3d7b70af6b4a"
+          }
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3WnU14bu5ZVQ5it-NbzAMwCWpRKRFSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461916468315:android:c83f754e2a1c6395",
+        "android_client_info": {
+          "package_name": "com.trinity.phoenix.spidermanwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461916468315-3ks7t7vkr3vleni1227dai6nls1psre7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trinity.phoenix.spidermanwallpaper",
+            "certificate_hash": "416641abd4198da68a3bbab637ad3d7b70af6b4a"
+          }
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3WnU14bu5ZVQ5it-NbzAMwCWpRKRFSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461916468315:android:f881a1abf8022e9f",
+        "android_client_info": {
+          "package_name": "com.trinity.phoenix.theflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461916468315-l9uae15gddl6lhc70pvdhra7lgpuoo7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trinity.phoenix.theflash",
+            "certificate_hash": "416641abd4198da68a3bbab637ad3d7b70af6b4a"
+          }
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3WnU14bu5ZVQ5it-NbzAMwCWpRKRFSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461916468315-hj1ldv929u4106ssmu0qpu717l09g095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
